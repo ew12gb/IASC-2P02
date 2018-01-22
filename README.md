@@ -10,4 +10,4 @@ I am a classic stand up dude canadian boy. I am very srs gui.
 
 First post for blog goes here.
 
-![Continue Reading](blog)
+[Continue Reading](blog)
