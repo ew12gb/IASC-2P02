@@ -9,3 +9,5 @@ I am a classic stand up dude canadian boy. I am very srs gui.
 ## Blog Post
 
 First post for blog goes here.
+
+![Continue Reading](blog.md)
