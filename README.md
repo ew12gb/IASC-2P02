@@ -4,10 +4,8 @@
 
 I am a classic stand up dude canadian boy. I am very srs gui.
 
-![](Images/CCguy.jpeg)
+![](Images/CCguy.jpg)
 
 ## Blog Post
 
 First post for blog goes here.
-
-##
