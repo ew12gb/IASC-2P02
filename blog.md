@@ -12,3 +12,5 @@ Aliquam convallis, diam id semper cursus, tellus justo semper augue, eget vulput
 
 
 <iframe style='width: 903px; height: 402px;' src='//voyant-tools.org/tool/Trends/?query=temporal*&query=temporality&bins=5&corpus=ad2b00dcb1fbc70ed39b6f2dc66a906d'></iframe>
+
+![](Images/picturecorpus.png)
