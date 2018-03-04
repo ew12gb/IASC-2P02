@@ -2,7 +2,12 @@
 As I started this project, I aimed to take a closer look at Stephen Ramsay’s reading An Algorithmic Criticism from the book Reading Machines: An Algortihmic Criticism. This article is compelling due to its critical take on the field I have chosen to study: The Digital Humanities. Being faced with the challenge of critically reflecting on Ramsay’s paper, I sought after another reading from IASC 2P02’s repository of academic papers and journals that could give insight into Alvarado’s message. I chose to use Rafael Alvarado’s reading The Digital Humanities Situation. I feel this is fitting, as it looks at how the digital humanities can be understood within the field of academia. Lastly, I pulled an article from the website www.digitalhumanities.org/dhq. The article chosen was written by scholar Marinella Testori and is titled: “Methods of quality, quality of methods. What does Roberto Busa have to communicate to digital humanists in the 21st century? From hermeneutics to performativity”, discussing the foundation of the Digital Humanities and its goals to showcase how humanities computing works to effectively turn information into representation.
 
 To start, I opened three individual voyant tool corpuses to actively visualize all three papers at once. This gave me the opportunity to critique the word clouds of each paper and look for similarities, as well as differences, between each of my bodies of text. As all the readings were based around the concept of Digital Humanities, it was easy to find similarities between each paper regarding common usage of language.
-
+## Figure 1
+![](Images/Ramsay.png)
+## Figure 2
+![](Images/Alvarado.png)
+## Figure 3
+![](Images/DHQ.png)
 Having immediate knowledge of Ramsay’s points represented in the first chapter of his book, I could use the word cloud feature to find critical words that helped support Ramsay’s claims of digital representation in humanities computing. I then wanted to use the Trends method of representation to showcase my findings in line graph fashion. The five words chosen to represent each article are: computing, methods, humanities, representation, and interpretation. My constraints for the bar graph were: 15 segments, with the frequencies set to raw frequencies. 
 
 Ramsay’s main point is to understand the value and potential of the Digital Humanities field within academia. Ramsay writes of a place where Digital Humanities can bolster academic information through the digitization of information within given parameters, however, can be lost in translation through the process of interpretation (Ramsay, 2011). Understanding this concept allowed me to better realize the importance of the words I chose to analyze through these texts. 
