@@ -21,5 +21,7 @@ Testori’s line chart has a similar analysis of methodology and representation 
 Through this visualization, it is clear that methodology is the main focus when understanding data visualization within the Digital Humanities. As scholars who aim to showcase information through representation, we have to be careful of the parameters we use as a guide for understanding. What we as Digital Humanists think may best represent a given database of information effectively, may end up being misrepresented through the readers understanding of how this information should be interpreted.  
 ## Citations
 Ramsay, S. (2012). Reading machines: toward an algorithmic criticism. Urbana, IL: University of Illinois Press.
+
 Alvarado, R. C. (2012). The Digital Humanities Situation. Debates in the Digital Humanities, 50-55. doi:10.5749/minnesota/9780816677948.003.0005
+
 Testori, M. (2017). What does Roberto Busa have to communicate to digital humanists in the 21st century? From hermeneutics to performativity. Methods of quality, quality of methods., 11(3). Retrieved March 04, 2018, from http://www.digitalhumanities.org/dhq/vol/11/3/000329/000329.html
