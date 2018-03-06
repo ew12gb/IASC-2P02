@@ -24,4 +24,4 @@ Ramsay, S. (2012). Reading machines: toward an algorithmic criticism. Urbana, IL
 
 Alvarado, R. C. (2012). The Digital Humanities Situation. Debates in the Digital Humanities, 50-55. doi:10.5749/minnesota/9780816677948.003.0005
 
-Testori, M. (2017). What does Roberto Busa have to communicate to digital humanists in the 21st century? From hermeneutics to performativity. Methods of quality, quality of methods., 11(3). Retrieved March 04, 2018, from http://www.digitalhumanities.org/dhq/vol/11/3/000329/000329.html
+Testori, M. (2017). What does Roberto Busa have to communicate to digital humanists in the 21st century? From hermeneutics to performativity. Methods of quality, quality of methods., 11(3). Retrieved March 04, 2018, from http://www.digitalhumanities.org/dhq/vol/11/3/000329/000329.html.
