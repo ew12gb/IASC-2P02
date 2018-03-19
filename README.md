@@ -11,4 +11,4 @@ As I started this project... [continue reading](blog)
 
 ## Solo Presentation
 
-[click here] (https://ew12gb.github.io/IASC-2P02/reveal.js-master/)
+[click here](https://ew12gb.github.io/IASC-2P02/reveal.js-master/)
