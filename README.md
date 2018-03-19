@@ -8,3 +8,7 @@ I am an Interactive Arts and Science student at Brock University.
 ## Blog post
 
 As I started this project... [continue reading](blog)
+
+## Solo Presentation
+
+[click here] (https://ew12gb.github.io/IASC-2P02/reveal.js-master/)
