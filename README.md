@@ -6,7 +6,7 @@ I am a second year student in the Interactive Arts and Science student at Brock 
 ![](Images/CCguy.jpg)
 
 
-## Featured Project: [Facebook Is Your Telescreen]
+## Featured Project: [Academic Presentation]
 
 ![](Images/zucc.jpg)
 
@@ -14,7 +14,7 @@ Here are 250 words introducing this work.
 
 Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](blog *or put URL*). I also made these changes which you can see [here](URL). I also made these changes, which you can see [here](URL). Overall, these changes show X and Y changes in my thinking.
 
-Read [Title goes here](readme)
+Read [Facebook Is Your Telescreen](readme)
 
 ## Collaborative Project
 
