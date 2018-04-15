@@ -12,6 +12,7 @@ I am a second year student in the Interactive Arts and Science program found at 
 Here are 250 words introducing this work. 
 
 [Facebook Is Your Telescreen](https://ew12gb.github.io/IASC-2P02/reveal.js-edited/)
+
 ![](Images/zucc.jpg)
 
 Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](blog *or put URL*). I also made these changes which you can see [here](URL is commits). I also made these changes, which you can see [here](URL). Overall, these changes show X and Y changes in my thinking.
