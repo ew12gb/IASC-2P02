@@ -6,9 +6,9 @@ I am a second year student in the Interactive Arts and Science student at Brock 
 ![](Images/CCguy.jpg)
 
 
-## Featured Project: [Title of Project Here]
+## Featured Project: [Facebook Is Your Telescreen]
 
-![](Images/CCguy.jpg)
+![](Images/zucc.jpg)
 
 Here are 250 words introducing this work. 
 
