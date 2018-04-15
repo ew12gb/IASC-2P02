@@ -17,7 +17,7 @@ Here is my 250 word statement describing how this research evolved over time. I 
 
 ## Collaborative Project
 
-Here is my 100 word project description.
+This was a collaborative project and presentation I had the pleasure of working on with four of my peers from Brocks Interactive Arts and Science program at Brock University. We aimed to critically look at the open sourced program “Zotero”, and analyse its intended use within the digital humanities. I was tasked with researching the team that keeps Zotero functioning, where it is being housed, and how the company manages to stay funded. With the combined efforts of everyone working on this collaborative project, we were able to situate the program firmly as a digital repository. 
 
 Here is mmy 250 word collaboration statement. Incorporate and image, commit, and either. I approach collaboration in X ways, which is reflected in Y work (available [here](URL))
 
@@ -30,6 +30,6 @@ I also contributed X assets to my team, seen below.
 
 As I started this project... [continue reading](blog)
 
-## Research Presentation
+## Initial Draft: Academic Presentation
 
 [Original Presentation](https://ew12gb.github.io/IASC-2P02/reveal.js-master/)
