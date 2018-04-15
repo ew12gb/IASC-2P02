@@ -14,7 +14,7 @@ Here are 250 words introducing this work.
 
 Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](blog *or put URL*). I also made these changes which you can see [here](URL). I also made these changes, which you can see [here](URL). Overall, these changes show X and Y changes in my thinking.
 
-Read [Facebook Is Your Telescreen](readme)
+(https://ew12gb.github.io/IASC-2P02/reveal.js-master/) [Facebook Is Your Telescreen](readme)
 
 ## Collaborative Project
 
