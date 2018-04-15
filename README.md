@@ -11,7 +11,7 @@ I am a second year student in the Interactive Arts and Science program found at 
 
 Here are 250 words introducing this work. 
 
-[Facebook Is Your Telescreen](https://ew12gb.github.io/IASC-2P02/reveal.js-edited/)
+[Facebook Is Your Telescreen](https://ew12gb.github.io/IASC-2P02/reveal.js-Edited/)
 
 ![](Images/zucc.jpg)
 
