@@ -1,5 +1,3 @@
-# IASC-2P02 -- Evan Wallace
-
 ![](Images/pictureforgithub.jpg)
 
 ## Biography
