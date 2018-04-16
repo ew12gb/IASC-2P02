@@ -22,7 +22,7 @@
 <p>I approached collaboration initially by taking the lead becoming the one obligated to write and receive all of the information conveyed to us on the first day of class, which is reflected the first day of commits on Feburary 5th. As you can see, most of the formatting of the initial GitHub reference page was done by me and is proven through <a href="https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/8c3955989e4011e586ef7012d1d59bf240c3211d">this</a> and 
  <a href="https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/d0ca162daa8cf9d62ff52e2119d6e796eb3ac77c">this</a> commit.</p>
 
-![](images/collaboration.jpg)
+![Figure 1](IASC-2P02/Images/proofscreenshot.png)
 
 ## Academic Blog
 
