@@ -5,7 +5,7 @@
 ![](Images/pictureforgithub.jpg)
 
 ## Featured Project: Academic Presentation
-[Facebook Is Your Telescreen](https://ew12gb.github.io/IASC-2P02/reveal.js-Edited/)
+[Facebook Is Your Telescreen](https://ew12gb.github.io/IASC-2P02/reveal.js-Edited/):
   This presentation aims to look at the idiosyncratic technology found within George Orwell’s novel, “1984”. This book has found new relevance in recent years due to its strong themes of surveillance, as well as, its lack of transparency found among those with opposing ideologies within their dystopia. Utilizing media archaeology, this presentation aims to prove that these hypothetical technologies found within this work of fiction can be related to real services being actively used in today’s world, amongst millions of people across the globe. The mediums of which these relevant themes are expressed in present day culture do not physically reflect the ideas of George Orwell, but their underlying methods of surveillance and user complacency lend itself to a critical perspective on the truths surrounding todays massive social media companies and their technologies. It is to be presented in traditional pecha kucha format, and thus follows a 20 second per slide pacing at a complete 6 minutes 40 seconds. This presentation proves that the social media company “Facebook” partners with parent companies like “Cambridge Analytica” to utilize surveillance. This is done through profile creation that supresses the technological freedom of individuals, the active participation of political influence, and marketing campaigns that bolster capitalistic practices and ideologies.
 
 ![](Images/zucc.jpg)
