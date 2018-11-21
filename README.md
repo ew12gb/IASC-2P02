@@ -35,3 +35,7 @@ As I started this project... [continue reading](blog)
 
 ## Music
 [link](Sound/heaven.mp3)
+[link](Sound/bell.mp3)
+[link](Sound/bellz.mp3)
+[link](Sound/fork.mp3)
+[link](Sound/chime.mp3)
