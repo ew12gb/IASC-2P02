@@ -43,3 +43,6 @@ As I started this project... [continue reading](blog)
 [link](Sound/chime.mp3)
 [link](Sound/foot.mp3)
 
+## Even More
+[link](Sound/win.mp3)
+[link](Sound/loss.mp3)
